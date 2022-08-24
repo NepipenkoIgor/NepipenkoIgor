@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Igor Nepipenko</h1>
-<h3 align="center">CTO & Co-founder JSDaddy. Principal Software Engineer, Coach on InItcoach , Angular and Flutter advocate. NGX-MASK author</h3>
+<h3 align="center">CTO & Co-founder JSDaddy. Principal Software Engineer, Coach on InItcoach platform , Angular and Flutter advocate. NGX-MASK author</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nepipenkoigor&label=Profile%20views&color=0e75b6&style=flat" alt="nepipenkoigor" /> </p>
 
