@@ -5,6 +5,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nepipenkoigor" alt="nepipenkoigor" /></a> </p>
 
+- 🤝 I am looking for help with [ngx-mask](https://github.com/JsDaddy/ngx-mask)
+
+- 💬 Ask me about **JavaScript, TypeScript, Dart, Angular, React, RxJS, Flutter, RxDart, Redux**
+
 - 📫 How to reach me **igornepipenko@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
