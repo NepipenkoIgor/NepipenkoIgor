@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nepipenkoigor" alt="nepipenkoigor" /></a> </p>
 
-- 📝 I regularly write articles on [https://www.initcoach.com/uk/blog](https://www.initcoach.com/uk/blog)
-
 - 📫 How to reach me **igornepipenko@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
