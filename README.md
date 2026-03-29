@@ -103,7 +103,7 @@ I build **AI-powered automation systems** and **production SaaS platforms** for 
 
 <div align="center">
 
-[![ngx-mask](https://github-readme-stats.vercel.app/api/pin/?username=JsDaddy&repo=ngx-mask&theme=tokyonight&hide_border=true&cache_seconds=3600)](https://github.com/JsDaddy/ngx-mask)
+**[ngx-mask](https://github.com/JsDaddy/ngx-mask)**
 
 </div>
 
@@ -114,24 +114,11 @@ I build **AI-powered automation systems** and **production SaaS platforms** for 
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-<a href="https://github.com/nepipenkoigor">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=nepipenkoigor&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=3600&rank_icon=github" alt="Igor's GitHub Stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nepipenkoigor&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=3600" alt="Top Languages" />
-</a>
-
 </div>
 
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=nepipenkoigor&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
-<div align="center">
-
-[![Trophy](https://github-profile-trophy.vercel.app/?username=nepipenkoigor&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
