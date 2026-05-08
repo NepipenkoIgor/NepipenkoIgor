@@ -10,10 +10,9 @@
 <br/>
 
 [![Profile views](https://komarev.com/ghpvc/?username=NepipenkoIgor&style=flat-square&color=7C3AED&label=Profile+Views)](https://github.com/NepipenkoIgor)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Igor_Nepipenko-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/igor-nepipenko-a324b4b2)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Igor_Nepipenko-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/igor-nepipenko-ai-architect)
 [![Upwork](https://img.shields.io/badge/Upwork-Top_Rated_Plus-14A800?style=flat-square&logo=upwork)](https://www.upwork.com/freelancers/nepipenkoaiarchitect)
 [![Email](https://img.shields.io/badge/Email-igornepipenko@gmail.com-EA4335?style=flat-square&logo=gmail)](mailto:igornepipenko@gmail.com)
-[![Website](https://img.shields.io/badge/Website-novines.software-7C3AED?style=flat-square&logo=vercel)](https://novines.software)
 
 </div>
 
@@ -176,7 +175,6 @@ Node.js, NestJS, FastAPI, PostgreSQL — event-driven, compliance-ready architec
 
 **Open to consulting & collaboration**
 
-[![Book a Discovery Call](https://img.shields.io/badge/📞_Book_a_Discovery_Call-7C3AED?style=for-the-badge)](https://novines.software)
 [![Upwork Profile](https://img.shields.io/badge/Upwork_Profile-14A800?style=for-the-badge&logo=upwork)](https://www.upwork.com/freelancers/nepipenkoaiarchitect)
 [![Email](https://img.shields.io/badge/igornepipenko@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:igornepipenko@gmail.com)
 
