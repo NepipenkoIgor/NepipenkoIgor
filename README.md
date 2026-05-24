@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Sora&weight=700&size=28&pause=1000&color=A78BFA&center=true&vCenter=true&width=750&lines=I+Build+AI+SaaS+Products;I+Build+LLM+Product+Features;I+Build+Workflow+Automation;I+Build+Cross-Platform+Apps;I+Build+Production+Backends;I+Do+Codebase+Rescue+%26+Audit;Everything+That+Actually+Ships" alt="Founder %26 Lead Engineer · Novines Software" />
+<img src="banner.svg" width="800" alt="I Build AI SaaS Products · LLM Features · Workflow Automation · Production Backends" />
 
 <br/>
 
