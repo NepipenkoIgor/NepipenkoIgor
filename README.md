@@ -20,7 +20,7 @@
 
 ## 🧠 About Me
 
-**Principal Software Engineer · CTO & Founder of [Novines Software](https://software.novines.eu/?ref=github)**
+**Principal Software Engineer · Founder & Lead Engineer of [Novines Software](https://software.novines.eu/?ref=github)**
 
 I build **AI-powered production systems** for founders and CTOs who need infrastructure that ships — not experiments that stall.
 
