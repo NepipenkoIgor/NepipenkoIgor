@@ -152,19 +152,25 @@ pgvector, Pinecone, semantic search, embedding pipelines, LLM eval frameworks.
 
 ## 🚀 Start a Project
 
-<img src="pricing.svg" width="100%" alt="Pricing: AI SaaS PoC $500 · n8n Automation $1,500 · SaaS Web App $2,500 · Flutter App $2,500 · Architecture Consultation Fixed fee"/>
+| Offering | Timeline | From |
+|---|---|---|
+| 🤖 AI SaaS PoC — validated & delivered | **72 hours** | **$500** |
+| ⚙️ n8n + LLM Automation System | **2–4 weeks** | **$1,500** |
+| 🌐 Next.js + Supabase SaaS Web App | **2–4 weeks** | **$2,500** |
+| 📱 Flutter SaaS App — iOS, Android, Desktop | **2–4 weeks** | **$2,500** |
+| 🧭 Architecture Consultation | **60 min** | **Fixed fee** |
 
 <div align="center">
 
 <br/>
 
-### [→ Scope Your Build at software.novines.eu ←](https://software.novines.eu/?ref=github)
+### [→ Book a 30-Min Call at software.novines.eu ←](https://software.novines.eu/?intent=github#book)
 
 *New project slots open · Production in 2–4 weeks*
 
 <br/>
 
-[![Scope Your Build](https://img.shields.io/badge/🚀_SCOPE_YOUR_BUILD_—_30_min_call-8B5CF6?style=for-the-badge&labelColor=0D0520)](https://software.novines.eu/?ref=github)
+[![Scope Your Build](https://img.shields.io/badge/🚀_SCOPE_YOUR_BUILD_—_30_min_call-8B5CF6?style=for-the-badge&labelColor=0D0520)](https://software.novines.eu/?intent=github#book)
 [![Upwork](https://img.shields.io/badge/Upwork_Top_Rated_Plus-14A800?style=for-the-badge&logo=upwork&logoColor=white&labelColor=0D0520)](https://www.upwork.com/freelancers/nepipenkoaiarchitect)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D0520)](https://www.linkedin.com/in/igor-nepipenko-a324b4b2)
 
