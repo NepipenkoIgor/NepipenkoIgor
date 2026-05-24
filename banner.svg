@@ -5,12 +5,12 @@
       <stop offset="50%" style="stop-color:#0D0520"/>
       <stop offset="100%" style="stop-color:#05050A"/>
     </linearGradient>
-    <radialGradient id="glowLeft" cx="25%" cy="50%" r="45%">
-      <stop offset="0%" style="stop-color:#8B5CF6;stop-opacity:0.35"/>
+    <radialGradient id="glowLeft" cx="20%" cy="55%" r="50%">
+      <stop offset="0%" style="stop-color:#8B5CF6;stop-opacity:0.2"/>
       <stop offset="100%" style="stop-color:#05050A;stop-opacity:0"/>
     </radialGradient>
-    <radialGradient id="glowRight" cx="75%" cy="50%" r="40%">
-      <stop offset="0%" style="stop-color:#6D28D9;stop-opacity:0.25"/>
+    <radialGradient id="glowRight" cx="80%" cy="45%" r="45%">
+      <stop offset="0%" style="stop-color:#6D28D9;stop-opacity:0.15"/>
       <stop offset="100%" style="stop-color:#05050A;stop-opacity:0"/>
     </radialGradient>
     <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="0%">
@@ -22,10 +22,14 @@
       <feMerge><feMergeNode in="coloredBlur"/><feMergeNode in="SourceGraphic"/></feMerge>
     </filter>
   </defs>
+
+  <!-- Background -->
   <rect width="900" height="280" fill="url(#bgGrad)"/>
   <rect width="900" height="280" fill="url(#glowLeft)"/>
   <rect width="900" height="280" fill="url(#glowRight)"/>
-  <g opacity="0.08" stroke="#8B5CF6" stroke-width="0.5">
+
+  <!-- Subtle static grid — depth without distraction -->
+  <g opacity="0.06" stroke="#8B5CF6" stroke-width="0.5">
     <line x1="0" y1="70" x2="900" y2="70"/>
     <line x1="0" y1="140" x2="900" y2="140"/>
     <line x1="0" y1="210" x2="900" y2="210"/>
@@ -33,23 +37,23 @@
     <line x1="450" y1="0" x2="450" y2="280"/>
     <line x1="720" y1="0" x2="720" y2="280"/>
   </g>
-  <circle cx="160" cy="140" r="60" fill="none" stroke="#8B5CF6" stroke-width="1" opacity="0">
-    <animate attributeName="r" values="40;80;40" dur="4s" repeatCount="indefinite"/>
-    <animate attributeName="opacity" values="0.3;0;0.3" dur="4s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="160" cy="140" r="30" fill="none" stroke="#A78BFA" stroke-width="1" opacity="0">
-    <animate attributeName="r" values="20;50;20" dur="4s" begin="1s" repeatCount="indefinite"/>
-    <animate attributeName="opacity" values="0.4;0;0.4" dur="4s" begin="1s" repeatCount="indefinite"/>
-  </circle>
-  <rect x="340" y="24" width="220" height="22" rx="11" fill="none" stroke="#8B5CF6" stroke-width="1" opacity="0.6"/>
+
+  <!-- Top status pill — only green dot animates -->
+  <rect x="340" y="24" width="220" height="22" rx="11" fill="none" stroke="#8B5CF6" stroke-width="1" opacity="0.5"/>
   <circle cx="352" cy="35" r="4" fill="#10B981">
     <animate attributeName="opacity" values="1;0.3;1" dur="2s" repeatCount="indefinite"/>
   </circle>
   <text x="362" y="39" fill="#C4C4D8" font-family="system-ui,sans-serif" font-size="11" letter-spacing="0.5">New project slots open · 2-4 weeks</text>
+
+  <!-- Main headline -->
   <text x="450" y="90" fill="#F4F4F8" font-family="system-ui,sans-serif" font-size="32" font-weight="800" text-anchor="middle" letter-spacing="-0.5">We Build LLM Product Features</text>
   <text x="450" y="132" fill="url(#textGrad)" font-family="system-ui,sans-serif" font-size="36" font-weight="800" font-style="italic" text-anchor="middle" filter="url(#glow)">That Actually Ship</text>
+
+  <!-- Subtitle -->
   <text x="450" y="165" fill="#6B6B80" font-family="system-ui,sans-serif" font-size="13" text-anchor="middle">Production-grade AI SaaS · LLM · Automation · Backend · Mobile</text>
   <text x="450" y="183" fill="#6B6B80" font-family="system-ui,sans-serif" font-size="12" text-anchor="middle">No fragile prototypes. No disappearing after launch.</text>
+
+  <!-- Stats row -->
   <g font-family="system-ui,sans-serif" text-anchor="middle">
     <text x="155" y="225" fill="#A78BFA" font-size="22" font-weight="800">100%</text>
     <text x="155" y="243" fill="#6B6B80" font-size="10" letter-spacing="1">JOB SUCCESS</text>
@@ -66,7 +70,9 @@
     <text x="820" y="225" fill="#10B981" font-size="22" font-weight="800">2M+</text>
     <text x="820" y="243" fill="#6B6B80" font-size="10" letter-spacing="1">NPM DOWNLOADS</text>
   </g>
+
+  <!-- Bottom gradient line — subtle breathing animation -->
   <rect x="0" y="275" width="900" height="3" rx="1.5" fill="url(#textGrad)" opacity="0.7">
-    <animate attributeName="opacity" values="0.7;1;0.7" dur="3s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.5;0.9;0.5" dur="4s" repeatCount="indefinite"/>
   </rect>
 </svg>
