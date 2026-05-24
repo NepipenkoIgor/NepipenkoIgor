@@ -29,7 +29,7 @@ In **12+ years** across fintech, legal tech, logistics, healthcare SaaS, and e-c
 
 I work like a **technical co-founder**: I understand your business problem as clearly as the technical one.
 
-<img src="stats.svg" width="100%" alt="Production Results: $380K saved · $45K MRR · 50K users · 2M npm downloads"/>
+> 💰 **$380K/yr saved** &nbsp;·&nbsp; 📈 **$45K MRR in 5 months** &nbsp;·&nbsp; 👥 **50K+ active users** &nbsp;·&nbsp; 📦 **2M+ monthly npm downloads**
 
 ---
 
@@ -37,16 +37,21 @@ I work like a **technical co-founder**: I understand your business problem as cl
 
 > *See production results → [software.novines.eu](https://software.novines.eu/?ref=github#cases)*
 
-| Project | Stack | Result |
-|---|---|---|
-| 🔁 Replaced 12-person manual workflow | n8n + GPT-4 | **10K+ rec/day · 99.2% acc · $380K/yr saved** |
-| 💳 Fintech SaaS platform | Flutter + Node.js | **$2M+/mo processed · 3 yrs · same client** |
-| ⚖️ Legal research tool | React + LangChain | **73% ↓ attorney document review time** |
-| 🚀 Multi-tenant SaaS | Next.js + Supabase | **$0 → $45K MRR in 5 months** |
-| 📱 Cross-platform app | Flutter | **50K+ users — iOS, Android, Desktop** |
-| 🤖 Logistics pipeline | OCR + GPT-4 + LangChain | **8× throughput — same headcount** |
-| ⚡ LLM underwriting | FastAPI + pgvector | **4.2s → 280ms · $18K/mo infra saved** |
-| 📦 ngx-mask OSS library | Angular | **2M+ monthly npm downloads · 1,000+ ⭐** |
+<div align="center">
+<table align="center" width="700">
+<thead><tr><th>Project</th><th>Stack</th><th>Result</th></tr></thead>
+<tbody>
+<tr><td>🔁 Replaced 12-person manual workflow</td><td>n8n + GPT-4</td><td><strong>10K+ rec/day · 99.2% acc · $380K/yr saved</strong></td></tr>
+<tr><td>💳 Fintech SaaS platform</td><td>Flutter + Node.js</td><td><strong>$2M+/mo processed · 3 yrs · same client</strong></td></tr>
+<tr><td>⚖️ Legal research tool</td><td>React + LangChain</td><td><strong>73% ↓ attorney document review time</strong></td></tr>
+<tr><td>🚀 Multi-tenant SaaS</td><td>Next.js + Supabase</td><td><strong>$0 → $45K MRR in 5 months</strong></td></tr>
+<tr><td>📱 Cross-platform app</td><td>Flutter</td><td><strong>50K+ users — iOS, Android, Desktop</strong></td></tr>
+<tr><td>🤖 Logistics pipeline</td><td>OCR + GPT-4 + LangChain</td><td><strong>8× throughput — same headcount</strong></td></tr>
+<tr><td>⚡ LLM underwriting</td><td>FastAPI + pgvector</td><td><strong>4.2s → 280ms · $18K/mo infra saved</strong></td></tr>
+<tr><td>📦 ngx-mask OSS library</td><td>Angular</td><td><strong>2M+ monthly npm downloads · 1,000+ ⭐</strong></td></tr>
+</tbody>
+</table>
+</div>
 
 ---
 
