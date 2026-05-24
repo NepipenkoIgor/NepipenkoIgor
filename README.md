@@ -152,6 +152,7 @@ pgvector, Pinecone, semantic search, embedding pipelines, LLM eval frameworks.
 
 ## 🚀 Start a Project
 
+<div align="center">
 | Offering | Timeline | From |
 |---|---|---|
 | 🤖 AI SaaS PoC — validated & delivered | **72 hours** | **$500** |
@@ -159,6 +160,7 @@ pgvector, Pinecone, semantic search, embedding pipelines, LLM eval frameworks.
 | 🌐 Next.js + Supabase SaaS Web App | **2–4 weeks** | **$2,500** |
 | 📱 Flutter SaaS App — iOS, Android, Desktop | **2–4 weeks** | **$2,500** |
 | 🧭 Architecture Consultation | **60 min** | **Fixed fee** |
+</div>
 
 <div align="center">
 
