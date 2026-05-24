@@ -30,11 +30,7 @@ In **12+ years** across fintech, legal tech, logistics, healthcare SaaS, and e-c
 
 I work like a **technical co-founder**: I understand your business problem as clearly as the technical one.
 
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=NepipenkoIgor&theme=transparent&hide_border=true&stroke=8B5CF6&ring=A78BFA&fire=10B981&currStreakLabel=A78BFA&sideLabels=6B6B80&dates=6B6B80&currStreakNum=F4F4F8&sideNums=F4F4F8)](https://git.io/streak-stats)
-
-</div>
+<img src="stats.svg" width="100%" alt="Production Results: $380K saved · $45K MRR · 50K users · 2M npm downloads"/>
 
 ---
 
