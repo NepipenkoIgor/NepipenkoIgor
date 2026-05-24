@@ -32,8 +32,7 @@ I work like a **technical co-founder**: I understand your business problem as cl
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NepipenkoIgor&show_icons=true&hide_border=true&bg_color=05050A&title_color=A78BFA&icon_color=10B981&text_color=C4C4D8&ring_color=8B5CF6)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NepipenkoIgor&layout=compact&hide_border=true&bg_color=05050A&title_color=A78BFA&text_color=C4C4D8)
+[![GitHub Streak](https://streak-stats.demolab.com?user=NepipenkoIgor&theme=transparent&hide_border=true&stroke=8B5CF6&ring=A78BFA&fire=10B981&currStreakLabel=A78BFA&sideLabels=6B6B80&dates=6B6B80&currStreakNum=F4F4F8&sideNums=F4F4F8)](https://git.io/streak-stats)
 
 </div>
 
