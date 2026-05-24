@@ -36,7 +36,7 @@ I work like a **technical co-founder**: I understand your business problem as cl
 
 ## 📈 Production Results — Not Demos
 
-> *Full case studies with architecture → [software.novines.eu](https://software.novines.eu/?ref=github#cases)*
+> *See production results → [software.novines.eu](https://software.novines.eu/?ref=github#cases)*
 
 | Project | Stack | Result |
 |---|---|---|
