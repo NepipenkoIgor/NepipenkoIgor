@@ -32,7 +32,7 @@ I work like a **technical co-founder**: I understand your business problem as cl
 
 ---
 
-## 📈 Production Results — Not Demos
+## 📈 Production Results We've Shipped
 
 > *See production results → [software.novines.eu](https://software.novines.eu/?ref=github#cases)*
 
