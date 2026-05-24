@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="banner.svg" width="800" alt="I Build AI SaaS Products · LLM Features · Workflow Automation · Production Backends" />
+<img src="https://readme-typing-svg.demolab.com?font=Sora&weight=700&size=46&duration=99999&pause=99999&color=FFFFFF&center=true&vCenter=true&width=700&lines=I+Build" alt="I Build" />
+<img src="https://readme-typing-svg.demolab.com?font=Sora&weight=700&size=32&pause=1200&color=A78BFA&center=true&vCenter=true&width=700&lines=AI+SaaS+Products;LLM+Product+Features;Workflow+Automation;Cross-Platform+Apps;Production+Backends;Codebase+Rescue+%26+Audit" alt="Typing animation" />
 
 <br/>
 
