@@ -153,13 +153,18 @@ pgvector, Pinecone, semantic search, embedding pipelines, LLM eval frameworks.
 ## 🚀 Start a Project
 
 <div align="center">
-| Offering | Timeline | From |
-|---|---|---|
-| 🤖 AI SaaS PoC — validated & delivered | **72 hours** | **$500** |
-| ⚙️ n8n + LLM Automation System | **2–4 weeks** | **$1,500** |
-| 🌐 Next.js + Supabase SaaS Web App | **2–4 weeks** | **$2,500** |
-| 📱 Flutter SaaS App — iOS, Android, Desktop | **2–4 weeks** | **$2,500** |
-| 🧭 Architecture Consultation | **60 min** | **Fixed fee** |
+
+<table>
+<thead><tr><th>Offering</th><th>Timeline</th><th>From</th></tr></thead>
+<tbody>
+<tr><td>🤖 AI SaaS PoC — validated &amp; delivered</td><td><strong>72 hours</strong></td><td><strong>$500</strong></td></tr>
+<tr><td>⚙️ n8n + LLM Automation System</td><td><strong>2–4 weeks</strong></td><td><strong>$1,500</strong></td></tr>
+<tr><td>🌐 Next.js + Supabase SaaS Web App</td><td><strong>2–4 weeks</strong></td><td><strong>$2,500</strong></td></tr>
+<tr><td>📱 Flutter SaaS App — iOS, Android, Desktop</td><td><strong>2–4 weeks</strong></td><td><strong>$2,500</strong></td></tr>
+<tr><td>🧭 Architecture Consultation</td><td><strong>60 min</strong></td><td><strong>Fixed fee</strong></td></tr>
+</tbody>
+</table>
+
 </div>
 
 <div align="center">
