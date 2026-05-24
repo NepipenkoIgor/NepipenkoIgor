@@ -6,7 +6,7 @@
 <br/>
 
 [![🌐 Novines Software](https://img.shields.io/badge/🌐_Novines_Software-software.novines.eu-8B5CF6?style=for-the-badge&labelColor=0D0520)](https://software.novines.eu/?ref=github)
-[![🚀 Scope Your Build](https://img.shields.io/badge/🚀_Scope_Your_Build-30_min_·_Free-10B981?style=for-the-badge&labelColor=0D0520)](https://software.novines.eu/?ref=github)
+[![🚀 Scope Your Build](https://img.shields.io/badge/🚀_Scope_Your_Build-30_Min_Call-10B981?style=for-the-badge&labelColor=0D0520)](https://software.novines.eu/?ref=github)
 [![Upwork Top Rated Plus](https://img.shields.io/badge/Upwork-Top_Rated_Plus_⚡-14A800?style=for-the-badge&logo=upwork&labelColor=0D0520)](https://www.upwork.com/freelancers/nepipenkoaiarchitect)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Igor_Nepipenko-0A66C2?style=for-the-badge&logo=linkedin&labelColor=0D0520)](https://www.linkedin.com/in/igor-nepipenko-a324b4b2)
 [![Email](https://img.shields.io/badge/igornepipenko@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D0520)](mailto:igornepipenko@gmail.com)
