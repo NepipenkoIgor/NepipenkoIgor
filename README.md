@@ -153,22 +153,7 @@ pgvector, Pinecone, semantic search, embedding pipelines, LLM eval frameworks.
 
 ## 🚀 Start a Project
 
-<table width="100%">
-<thead>
-<tr>
-<th align="left">Offering</th>
-<th align="center">Timeline</th>
-<th align="center">From</th>
-</tr>
-</thead>
-<tbody>
-<tr><td>🔬 AI SaaS PoC — validated &amp; delivered</td><td align="center">72 hours</td><td align="center">$500</td></tr>
-<tr><td>⚙️ n8n + LLM Automation System</td><td align="center">2–4 weeks</td><td align="center">$1,500</td></tr>
-<tr><td>🌐 Next.js + Supabase SaaS Web App</td><td align="center">2–4 weeks</td><td align="center">$2,500</td></tr>
-<tr><td>📱 Flutter SaaS App — iOS, Android, Desktop</td><td align="center">2–4 weeks</td><td align="center">$2,500</td></tr>
-<tr><td>🧭 Architecture Consultation</td><td align="center">60 min</td><td align="center">Fixed fee</td></tr>
-</tbody>
-</table>
+<img src="pricing.svg" width="100%" alt="Pricing: AI SaaS PoC $500 · n8n Automation $1,500 · SaaS Web App $2,500 · Flutter App $2,500 · Architecture Consultation Fixed fee"/>
 
 <div align="center">
 
