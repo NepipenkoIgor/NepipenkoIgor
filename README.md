@@ -1,7 +1,7 @@
 <div align="center">
 
-<h3 align="center">I Build</h3>
-<img src="https://readme-typing-svg.demolab.com?font=Sora&weight=700&size=32&pause=1200&color=A78BFA&center=true&vCenter=true&width=700&lines=AI+SaaS+Products;LLM+Product+Features;Workflow+Automation;Cross-Platform+Apps;Production+Backends;Codebase+Rescue+%26+Audit" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Sora&weight=700&size=28&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=I+Build+AI+SaaS+Products;I+Build+LLM+Product+Features;I+Build+Workflow+Automation;I+Build+Cross-Platform+Apps;I+Build+Production+Backends;I+Do+Codebase+Rescue+%26+Audit;Everything+That+Actually+Ships" alt="I Build Production Backends · LLM Features · AI Automation · SaaS Platforms" />
+
 
 <br/>
 
