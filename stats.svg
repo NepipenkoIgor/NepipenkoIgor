@@ -1,0 +1,60 @@
+<svg width="900" height="160" viewBox="0 0 900 160" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#08081A"/>
+      <stop offset="100%" style="stop-color:#0D0520"/>
+    </linearGradient>
+    <linearGradient id="purpleGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#C4B5FD"/>
+      <stop offset="100%" style="stop-color:#8B5CF6"/>
+    </linearGradient>
+    <linearGradient id="greenGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#6EE7B7"/>
+      <stop offset="100%" style="stop-color:#10B981"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="900" height="160" fill="url(#bg)" rx="12"/>
+
+  <!-- Top label -->
+  <text x="450" y="28" fill="#4B4B6B" font-family="system-ui,sans-serif" font-size="10" text-anchor="middle" letter-spacing="2">PRODUCTION RESULTS — REAL CLIENTS</text>
+  <line x1="50" y1="35" x2="370" y2="35" stroke="#1E1E3A" stroke-width="1"/>
+  <line x1="530" y1="35" x2="850" y2="35" stroke="#1E1E3A" stroke-width="1"/>
+
+  <!-- Card 1: $380K/yr saved -->
+  <rect x="30" y="48" width="180" height="90" rx="8" fill="#0F0F24" stroke="#1E1E3A" stroke-width="1"/>
+  <text x="120" y="82" fill="url(#greenGrad)" font-family="system-ui,sans-serif" font-size="28" font-weight="800" text-anchor="middle">$380K</text>
+  <text x="120" y="100" fill="#6B6B90" font-family="system-ui,sans-serif" font-size="10" text-anchor="middle" letter-spacing="0.5">SAVED PER YEAR</text>
+  <text x="120" y="126" fill="#3D3D5C" font-family="system-ui,sans-serif" font-size="9" text-anchor="middle">n8n + GPT-4 automation</text>
+
+  <!-- Divider -->
+  <line x1="225" y1="55" x2="225" y2="130" stroke="#1E1E3A" stroke-width="1"/>
+
+  <!-- Card 2: $45K MRR -->
+  <rect x="235" y="48" width="180" height="90" rx="8" fill="#0F0F24" stroke="#1E1E3A" stroke-width="1"/>
+  <text x="325" y="82" fill="url(#purpleGrad)" font-family="system-ui,sans-serif" font-size="28" font-weight="800" text-anchor="middle">$45K</text>
+  <text x="325" y="100" fill="#6B6B90" font-family="system-ui,sans-serif" font-size="10" text-anchor="middle" letter-spacing="0.5">MRR IN 5 MONTHS</text>
+  <text x="325" y="126" fill="#3D3D5C" font-family="system-ui,sans-serif" font-size="9" text-anchor="middle">Next.js + Supabase SaaS</text>
+
+  <!-- Divider -->
+  <line x1="430" y1="55" x2="430" y2="130" stroke="#1E1E3A" stroke-width="1"/>
+
+  <!-- Card 3: 50K users -->
+  <rect x="440" y="48" width="180" height="90" rx="8" fill="#0F0F24" stroke="#1E1E3A" stroke-width="1"/>
+  <text x="530" y="82" fill="url(#greenGrad)" font-family="system-ui,sans-serif" font-size="28" font-weight="800" text-anchor="middle">50K+</text>
+  <text x="530" y="100" fill="#6B6B90" font-family="system-ui,sans-serif" font-size="10" text-anchor="middle" letter-spacing="0.5">ACTIVE USERS</text>
+  <text x="530" y="126" fill="#3D3D5C" font-family="system-ui,sans-serif" font-size="9" text-anchor="middle">Flutter cross-platform app</text>
+
+  <!-- Divider -->
+  <line x1="635" y1="55" x2="635" y2="130" stroke="#1E1E3A" stroke-width="1"/>
+
+  <!-- Card 4: 2M npm -->
+  <rect x="645" y="48" width="225" height="90" rx="8" fill="#0F0F24" stroke="#1E1E3A" stroke-width="1"/>
+  <text x="758" y="82" fill="url(#purpleGrad)" font-family="system-ui,sans-serif" font-size="28" font-weight="800" text-anchor="middle">2M+</text>
+  <text x="758" y="100" fill="#6B6B90" font-family="system-ui,sans-serif" font-size="10" text-anchor="middle" letter-spacing="0.5">MONTHLY NPM DOWNLOADS</text>
+  <text x="758" y="126" fill="#3D3D5C" font-family="system-ui,sans-serif" font-size="9" text-anchor="middle">ngx-mask open-source library</text>
+
+  <!-- Bottom border -->
+  <rect x="0" y="157" width="900" height="2" rx="1" fill="url(#purpleGrad)" opacity="0.4"/>
+</svg>
