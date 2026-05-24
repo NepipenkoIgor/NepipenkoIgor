@@ -10,8 +10,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Igor_Nepipenko-0A66C2?style=for-the-badge&logo=linkedin&labelColor=0D0520)](https://www.linkedin.com/in/igor-nepipenko-a324b4b2)
 [![Email](https://img.shields.io/badge/igornepipenko@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D0520)](mailto:igornepipenko@gmail.com)
 
-<img src="services.svg" width="100%" alt="Services: LLM Features · AI Automation · SaaS Platforms · Mobile Apps · Backend APIs · RAG Search"/>
-
 ![Profile Views](https://komarev.com/ghpvc/?username=NepipenkoIgor&style=for-the-badge&color=8B5CF6&labelColor=0D0520)
 
 </div>
