@@ -33,7 +33,7 @@ I work like a **technical co-founder**: I understand your business problem as cl
 
 ---
 
-## 📈 Production Results We've Shipped
+## 📈 Production Results I've Shipped
 
 > *See production results → [software.novines.eu](https://software.novines.eu/?ref=github#cases)*
 
@@ -159,33 +159,35 @@ pgvector, Pinecone, semantic search, embedding pipelines, LLM eval frameworks.
 
 <div align="center">
 
-<table>
-<thead><tr><th>Offering</th><th>Timeline</th><th>From</th></tr></thead>
+<table align="center" width="680">
+<thead>
+<tr><th align="left">Engagement</th><th>Timeline</th><th>Pricing</th></tr>
+</thead>
 <tbody>
-<tr><td>🤖 AI SaaS PoC — validated &amp; delivered</td><td><strong>72 hours</strong></td><td><strong>$500</strong></td></tr>
-<tr><td>⚙️ n8n + LLM Automation System</td><td><strong>2–4 weeks</strong></td><td><strong>$1,500</strong></td></tr>
-<tr><td>🌐 Next.js + Supabase SaaS Web App</td><td><strong>2–4 weeks</strong></td><td><strong>$2,500</strong></td></tr>
-<tr><td>📱 Flutter SaaS App — iOS, Android, Desktop</td><td><strong>2–4 weeks</strong></td><td><strong>$2,500</strong></td></tr>
-<tr><td>🧭 Architecture Consultation</td><td><strong>60 min</strong></td><td><strong>Fixed fee</strong></td></tr>
+<tr>
+<td>🧪 <b>Proof of Concept</b><br/><sub>Validate the idea — product flow, UI/UX, architecture, AI/automation feasibility, key risks, and the smallest useful build path</sub></td>
+<td align="center"><b>72 hours</b></td>
+<td align="center"><b>From $2,500</b><br/><sub>Fixed scope</sub></td>
+</tr>
+<tr>
+<td>🚀 <b>Production Build</b> ⭐ Most Popular<br/><sub>End-to-end build for AI SaaS, LLM features, workflow automation, backend systems, cross-platform apps, or product UI/UX flows</sub></td>
+<td align="center"><b>2–4 weeks</b></td>
+<td align="center"><b>Custom</b><br/><sub>Fixed scope & price</sub></td>
+</tr>
+<tr>
+<td>🤝 <b>Ongoing Partnership</b><br/><sub>Product, UI/UX, and architecture support for teams shipping AI SaaS features, automation workflows, backends, or cross-platform apps</sub></td>
+<td align="center"><b>Monthly</b></td>
+<td align="center"><b>Custom</b><br/><sub>Async-first</sub></td>
+</tr>
 </tbody>
 </table>
 
 </div>
 
-<div align="center">
-
-<br/>
-
 ### [→ Book a 30-Min Call at software.novines.eu ←](https://software.novines.eu/?intent=github#book)
 
 *New project slots open · Production in 2–4 weeks*
 
-<br/>
-
-[![Scope Your Build](https://img.shields.io/badge/🚀_SCOPE_YOUR_BUILD_—_30_min_call-8B5CF6?style=for-the-badge&labelColor=0D0520)](https://software.novines.eu/?intent=github#book)
-[![Upwork](https://img.shields.io/badge/Upwork_Top_Rated_Plus-14A800?style=for-the-badge&logo=upwork&logoColor=white&labelColor=0D0520)](https://www.upwork.com/freelancers/nepipenkoaiarchitect)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D0520)](https://www.linkedin.com/in/igor-nepipenko-a324b4b2)
-
-</div>
-
-<!-- SEO: hire AI developer, LLM product engineer, AI SaaS development, RAG pipeline developer, n8n automation expert, LangChain developer, production AI systems, fintech AI engineer, multi-tenant SaaS developer, Flutter developer, Next.js Supabase, GPT-4 integration, full stack AI engineer, Novines Software -->
+[![Scope Your Build](https://img.shields.io/badge/→_SCOPE_YOUR_BUILD-7C3AED?style=for-the-badge)](https://software.novines.eu/?intent=github#book)
+[![Upwork](https://img.shields.io/badge/UPWORK-TOP_RATED_PLUS-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/nepipenkoaiarchitect)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-IGOR_NEPIPENKO-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igor-nepipenko-a324b4b2)
