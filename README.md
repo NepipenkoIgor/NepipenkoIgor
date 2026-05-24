@@ -55,7 +55,7 @@ I work like a **technical co-founder**: I understand your business problem as cl
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="bottom">
 
 **🤖 LLM Features & AI Integration**
 GPT-4 / Claude / Gemini, RAG pipelines, LangChain agents, pgvector & Pinecone semantic search. Production-ready — not experimental.
@@ -67,7 +67,7 @@ n8n & Make replacing entire manual operations. 10,000+ records/day at 99%+ accur
 Next.js + Supabase — Stripe billing, RBAC, real-time, CI/CD. Live in **2–4 weeks**.
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="bottom">
 
 **📱 Cross-Platform Mobile Apps**
 Flutter: iOS, Android & Desktop from one codebase. Fintech, enterprise, biometric auth.
@@ -128,7 +128,7 @@ pgvector, Pinecone, semantic search, embedding pipelines, LLM eval frameworks.
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="bottom">
 
 > *"I've had the opportunity to work with Igor at two different companies—which probably tells you everything you need to know. When you find someone operating at his level, you make a point to bring them along."*
 
@@ -136,7 +136,7 @@ pgvector, Pinecone, semantic search, embedding pipelines, LLM eval frameworks.
 ⭐⭐⭐⭐⭐ LinkedIn Recommendation
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="bottom">
 
 > *"He consistently delivers high-quality work, pays attention to details, and takes full ownership. His problem-solving skills and positive attitude make him a valuable contributor to any team."*
 
@@ -153,13 +153,22 @@ pgvector, Pinecone, semantic search, embedding pipelines, LLM eval frameworks.
 
 ## 🚀 Start a Project
 
-| Offering | Timeline | From |
-|---|---|---|
-| 🔬 AI SaaS PoC — validated & delivered | 72 hours | $500 |
-| ⚙️ n8n + LLM Automation System | 2–4 weeks | $1,500 |
-| 🌐 Next.js + Supabase SaaS Web App | 2–4 weeks | $2,500 |
-| 📱 Flutter SaaS App — iOS, Android, Desktop | 2–4 weeks | $2,500 |
-| 🧭 Architecture Consultation | 60 min | Fixed fee |
+<table width="100%">
+<thead>
+<tr>
+<th align="left">Offering</th>
+<th align="center">Timeline</th>
+<th align="center">From</th>
+</tr>
+</thead>
+<tbody>
+<tr><td>🔬 AI SaaS PoC — validated &amp; delivered</td><td align="center">72 hours</td><td align="center">$500</td></tr>
+<tr><td>⚙️ n8n + LLM Automation System</td><td align="center">2–4 weeks</td><td align="center">$1,500</td></tr>
+<tr><td>🌐 Next.js + Supabase SaaS Web App</td><td align="center">2–4 weeks</td><td align="center">$2,500</td></tr>
+<tr><td>📱 Flutter SaaS App — iOS, Android, Desktop</td><td align="center">2–4 weeks</td><td align="center">$2,500</td></tr>
+<tr><td>🧭 Architecture Consultation</td><td align="center">60 min</td><td align="center">Fixed fee</td></tr>
+</tbody>
+</table>
 
 <div align="center">
 
