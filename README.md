@@ -116,10 +116,10 @@ pgvector, Pinecone, semantic search, embedding pipelines, LLM eval frameworks.
 
 ## 📦 Open Source — ngx-mask
 
-**[ngx-mask](https://github.com/JsDaddy/ngx-mask)** — Angular input masking library used globally in fintech, healthcare, logistics & enterprise SaaS
+**[ngx-mask](https://www.npmjs.com/package/ngx-mask)** — Angular input masking library used globally in fintech, healthcare, logistics & enterprise SaaS
 
 [![npm downloads](https://img.shields.io/npm/dm/ngx-mask?style=for-the-badge&color=CB3837&labelColor=0D0520&label=npm%20downloads)](https://www.npmjs.com/package/ngx-mask)
-[![GitHub Stars](https://img.shields.io/github/stars/JsDaddy/ngx-mask?style=for-the-badge&color=F7CA18&labelColor=0D0520&label=⭐%20stars)](https://github.com/JsDaddy/ngx-mask)
+[![GitHub Stars](https://img.shields.io/github/stars/JsDaddy/ngx-mask?style=for-the-badge&color=F7CA18&labelColor=0D0520&label=⭐%20stars)](https://www.npmjs.com/package/ngx-mask)
 [![npm version](https://img.shields.io/npm/v/ngx-mask?style=for-the-badge&color=8B5CF6&labelColor=0D0520)](https://www.npmjs.com/package/ngx-mask)
 
 ---
