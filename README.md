@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="banner.svg" width="100%" alt="Igor Nepipenko — I Build LLM Product Features That Actually Ship | Novines Software | AI SaaS Engineer | LLM Developer | Production AI Systems"/>
+<img src="https://readme-typing-svg.demolab.com?font=Sora&weight=700&size=28&pause=1000&color=A78BFA&center=true&vCenter=true&width=750&lines=I+Build+AI+SaaS+Products;I+Build+LLM+Product+Features;I+Build+Workflow+Automation;I+Build+Cross-Platform+Apps;I+Build+Production+Backends;I+Do+Codebase+Rescue+%26+Audit;Everything+That+Actually+Ships" alt="Founder %26 Lead Engineer · Novines Software" />
 
 <br/>
 
