@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="banner.svg" width="100%" alt="Igor Nepipenko — We Build LLM Product Features That Actually Ship | Novines Software | AI SaaS Engineer | LLM Developer | Production AI Systems"/>
+<img src="banner.svg" width="100%" alt="Igor Nepipenko — I Build LLM Product Features That Actually Ship | Novines Software | AI SaaS Engineer | LLM Developer | Production AI Systems"/>
 
 <br/>
 
@@ -130,18 +130,18 @@ pgvector, Pinecone, semantic search, embedding pipelines, LLM eval frameworks.
 <tr>
 <td width="50%" valign="top">
 
-> *"Igor embedded seamlessly into our on-prem team... highly competent, executed his stories efficiently and to spec, while effectively articulating tradeoffs. His positive attitude is contagious."*
+> *"I've had the opportunity to work with Igor at two different companies—which probably tells you everything you need to know. When you find someone operating at his level, you make a point to bring them along."*
 
-**— Imran Y.**, Technical Product Owner · Enterprise Software
-⭐⭐⭐⭐⭐ Verified Upwork Review
+**— [Heath Glass](https://www.linkedin.com/in/heath-glass/)**, CTO · Enterprise Software & AI Platforms
+⭐⭐⭐⭐⭐ LinkedIn Recommendation
 
 </td>
 <td width="50%" valign="top">
 
 > *"He consistently delivers high-quality work, pays attention to details, and takes full ownership. His problem-solving skills and positive attitude make him a valuable contributor to any team."*
 
-**— Sergii S.**, Product Development Manager
-⭐⭐⭐⭐⭐ Verified Upwork Review
+**— [Sergii Shubin](https://www.linkedin.com/in/sergshubin/)**, Product Development Manager
+⭐⭐⭐⭐⭐ LinkedIn Recommendation
 
 </td>
 </tr>
