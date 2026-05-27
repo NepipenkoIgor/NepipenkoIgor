@@ -25,7 +25,7 @@ I build **AI-powered production systems** for founders and CTOs who need infrast
 
 > Most clients come to me **second** — after the prototype failed, after the offshore agency disappeared, when the stakes are too high to get it wrong again.
 
-In **12+ years** across fintech, legal tech, logistics, healthcare SaaS, and e-commerce, I've shipped systems handling **5K+ concurrent users** and **1M+ API calls/month**. No half-working demos. No disappearing after handoff.
+In **13+ years** across fintech, legal tech, logistics, healthcare SaaS, and e-commerce, I've shipped systems handling **5K+ concurrent users** and **1M+ API calls/month**. No half-working demos. No disappearing after handoff.
 
 I work like a **technical co-founder**: I understand your business problem as clearly as the technical one.
 
