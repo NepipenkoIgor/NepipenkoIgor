@@ -19,7 +19,7 @@
 
 ## 🧠 About Me
 
-**AI SaaS Architect | Full Stack Developer | Automation Expert · Founder & Lead Engineer of [Novines Software](https://software.novines.eu/?ref=github)**
+**AI SaaS Architect | Full Stack Developer | LLM/RAG Automation Expert · Founder & Lead Engineer of [Novines Software](https://software.novines.eu/?ref=github)**
 
 I build **AI-powered production systems** for founders and CTOs who need infrastructure that ships — not experiments that stall.
 
